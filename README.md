@@ -294,39 +294,5 @@
   - [原创 信息安全之密钥管理](https://blog.csdn.net/qq_44273429/article/details/112760585)
   - [原创 信息安全之访问控制策略](https://blog.csdn.net/qq_44273429/article/details/112794338)
 
-<a name="华为云产品"></a> 
-
-# 华为云产品
-
-注册地址：[华为云官网注册](https://account.huaweicloud.com/obmgr/invitation/invitation.html?bpName=00000001000000027830B446ECE8AA34A5796666009A2468D201A38E841154814B192FB541876FBD89C34FB49E42DEEC8A2B9F04023924A51EA22D298F2FCEAE7D7A026173C888B7&inviteCode=00000001000000022D75D8D7EC336951DD1BFABA914E3F9BA0C2369E15E3B03AC9ABC8C85D19355D&bindType=1&isDefault=1)
-
-有需要可以联系我，我可以给大家优惠
-
-<p align="center"><img src="images/huawei300.png" width="300" /></p>
-
-
-<a name="致知店铺"></a> 
-
-# 致知店铺 
-
-店铺地址：[http://zsysjq.com.cn/store/127](http://zsysjq.com.cn/store/127)
-<p align="center"><img src="images/zhizhi.png" width="600" /></p>
-
-
-
-# 鸣谢
-
-****
-
-​<p align="center"><img src="images/20210522180031226.gif" width="300" /></p>
-
-<a name="微信"></a>  <a name="公众号"></a>
-
-加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群]** ，添加好友即可。 公众号也会经常分享一些干货。
-
-微信搜索 **[海拥]** ，第一时间阅读或者扫描下方的二维码。
-
-<p align="center"><img src="images/gongzhonghao300.png" width="300" /><img src="images/0.jpg" width="300" /></p>
-
 ## Java学习路线
 <p align="center"><img src="images/Java.png"/></p>
